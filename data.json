@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "couliflower",
+            "email": "couliflower@gmail.com",
+            "birthdate": "2008-02-08",
+            "age": 10,
+            "companyId": 1
+        },
+        {
+            "id": 2,
+            "username": "bubblybunny",
+            "email": "bubblybunny@hotmail.com",
+            "birthdate": "2007-07-30",
+            "age": 11,
+            "companyId": 2
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "Fedex"
+        },
+        {
+            "id": 2,
+            "name": "Ernst and Young"
+        }
+    ]
+}
